@@ -2,8 +2,8 @@
 > This assignment is a programming assignment wherein you have to build a multiple linear regression model for the prediction of demand for shared bikes. You will need to submit a Jupyter notebook for the same. 
 
 ## Table of Contents
-* [Problem Statement](#problem statement)
-* [Business Goal](#business goal)
+* [Problem Statement](#problemstatement)
+* [Business Goal](#businessgoal)
 * Dataset and Data Dictionary
 * Steps Performed
 * [Conclusions](#conclusions)
@@ -34,11 +34,13 @@ We are required to model the demand for shared bikes with the available independ
 
 ## Dataset and Data Dictionary
 The following files are present inside datasets folder:
+
     - day.csv (dataset)
     - Readme.txt (data dictionary)
 
 ## Steps Performed
 Assignment is divided into following parts:
+
 	1 Reading and Understanding the Data
 	2 Data Quality Check
 	3 Data Cleaning
